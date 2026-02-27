@@ -3,3 +3,6 @@
 ################################################################################
 
 /GitHubApp/GitHubApp/GitHubApp.csproj
+/.vs
+/GitHubApp/.vs
+/GitHubApp/GitHubApp/obj
